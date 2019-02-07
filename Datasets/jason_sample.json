@@ -1,0 +1,14 @@
+{ 
+   "Employee_ID":[ "1", "2", "3" ],
+   
+   "Name":["Jack", "Ryan", "Ritcher" ],
+   
+   "Salary":["5000", "8000", "10000" ],
+   
+   "StartDate":[ "2018-01-01", "2017-01-01", "2016-01-01" ],
+
+   "Dept":[ "Sales", "Finance", "Strategy" ],
+   
+   "City": [ "New York", "Chicago", "California" ]
+
+}
