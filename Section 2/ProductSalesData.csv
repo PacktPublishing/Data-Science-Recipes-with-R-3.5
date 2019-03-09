@@ -1,0 +1,81 @@
+Product,Country,Year,Quarter,Sales
+iPhone,China,2017,4,600
+iPhone,Japan,2017,2,500
+iPhone,India,2017,3,600
+iPhone,USA,2017,2,600
+iPhone,UK,2018,1,700
+iPhone,Finland,2017,1,600
+iPhone,Thailand,2018,3,900
+iPhone,South Korea,2017,1,700
+iPhone,China,2017,3,900
+iPhone,India,2017,1,500
+iPhone,China,2018,4,500
+iPhone,India,2018,1,700
+iPhone,Japan,2017,1,900
+iPhone,Thailand,2017,4,800
+iPhone,China,2018,1,900
+iPhone,UK,2018,2,800
+iPhone,UK,2018,3,800
+iPhone,UK,2017,4,800
+iPhone,UK,2018,2,800
+iPhone,UK,2018,3,800
+iPhone,USA,2017,3,700
+iPhone,USA,2018,3,500
+iPhone,USA,2018,1,500
+iPhone,USA,2018,1,500
+iPad,USA,2018,1,800
+iPad,USA,2018,4,1000
+iPad,China,2017,2,1200
+iPad,India,2018,3,900
+iPad,Japan,2017,1,1000
+iPad,Japan,2018,3,900
+iPad,Thailand,2017,4,600
+iPad,Finland,2018,3,800
+iPad,Finland,2018,3,1200
+iPad,South Korea,2017,1,600
+iPad,South Korea,2017,1,500
+iPad,Japan,2017,4,500
+iPad,Japan,2017,3,800
+iPad,Japan,2017,1,600
+iPad,Thailand,2018,2,650
+iPad,Thailand,2017,2,500
+iPad,South Korea,2018,2,600
+iPad,Finland,2018,4,500
+iPad,Finland,2018,2,800
+iPad,USA,2018,4,900
+iPad,China,2018,1,900
+iPad,China,2017,2,700
+iPad,China,2018,1,1200
+iPad,China,2017,1,1200
+iPad,China,2017,2,700
+iPad,Finland,2017,2,700
+iPad,India,2018,4,1200
+MacBook,Thailand,2017,4,1700
+MacBook,India,2018,3,2000
+MacBook,USA,2018,3,1300
+MacBook,USA,2017,1,1600
+MacBook,USA,2018,1,1400
+MacBook,Thailand,2017,4,1700
+MacBook,Thailand,2018,1,1700
+MacBook,India,2018,2,1400
+MacBook,India,2018,2,1800
+MacBook,India,2017,1,1500
+MacBook,India,2018,3,1700
+MacBook,China,2017,3,1400
+MacBook,China,2018,4,2500
+MacBook,China,2018,2,1300
+MacBook,USA,2018,1,2400
+MacBook,USA,2018,1,1500
+MacBook,India,2018,2,1300
+MacBook,USA,2017,1,2500
+MacBook,India,2018,3,2000
+MacBook,China,2017,1,1200
+MacBook,Finland,2017,1,1500
+MacBook,Finland,2017,3,2200
+MacBook,South Korea,2017,3,2300
+MacBook,South Korea,2018,4,2500
+MacBook,South Korea,2017,3,1600
+MacBook,South Korea,2018,3,1100
+MacBook,Finland,2017,2,1900
+MacBook,Finland,2018,1,1100
+MacBook,India,2017,4,1600
