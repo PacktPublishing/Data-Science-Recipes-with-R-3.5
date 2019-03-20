@@ -1,4 +1,4 @@
-age,workclass,education,educational.num,marital.status,race,gender,hours.per.week,income,Date_of_Joning
+age,workclass,education,educational.num,marital.status,race,gender,hours.per.week,income,Date_of_Joining
 52,Private,Assoc-voc,11,Separated,White,Female,35,<=50K,31-12-2005
 24,Private,Assoc-voc,11,Never-married,White,Male,40,<=50K,07-07-2001
 61,Private,HS-grad,9,Divorced,White,Female,40,<=50K,29-06-2013
