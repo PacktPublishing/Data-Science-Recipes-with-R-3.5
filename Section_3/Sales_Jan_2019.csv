@@ -1,0 +1,1001 @@
+Product,Price,Payment_Type,Transaction_date,Name,City,State,Country
+Product3,553,Visa,1/1/2018,John,Edmonton,Alberta,Canada
+Product7,500,Diners,1/1/2018,William,Santo Domingo City,Distrito Nacional,Dominican Republic
+Product8,1462,Visa,1/2/2018,James,Gold Coast,Queensland,Australia
+Product2,969,Mastercard,1/2/2018,Charles,Houston                     ,TX,United States
+Product10,1253,Mastercard,1/2/2018,George,Lakeville                   ,MN,United States
+Product2,1446,Mastercard,1/2/2018,Frank,Roanoke                     ,VA,United States
+Product4,1080,Visa,1/2/2018,Joseph,Toronto,Ontario,Canada
+Product9,1426,Visa,1/2/2018,Thomas,Beverly Hills               ,CA,United States
+Product5,1052,Mastercard,1/3/2018,Henry,Suwanee                     ,GA,United States
+Product3,1250,Visa,1/3/2018,Robert,Massagno,Ticino,Switzerland
+Product10,920,Visa,1/4/2018,Edward,Mickleton                   ,NJ,United States
+Product2,896,Amex,1/4/2018,Harry,Rowayton                    ,CT,United States
+Product8,1236,Amex,1/5/2018,Walter,Bruxelles,Brussels (Bruxelles),Belgium
+Product3,324,Visa,1/5/2018,Arthur,Dickerson                   ,MD,United States
+Product6,1404,Visa,1/5/2018,Fred,Gosport,England,United Kingdom
+Product10,1257,Mastercard,1/5/2018,Albert,Zug,Zug,Switzerland
+Product3,761,Visa,1/5/2018,Samuel,Auckland,Auckland,New Zealand
+Product3,1475,Diners,1/5/2018,David,Worcester,England,United Kingdom
+Product5,879,Visa,1/5/2018,Louis,Cornwall,Ontario,Canada
+Product9,393,Visa,1/5/2018,Joe,Zumikon,Zurich,Switzerland
+Product10,775,Visa,1/6/2018,Charlie,Tesvikiye,Istanbul,Turkey
+Product6,584,Mastercard,1/6/2018,Clarence,Houston                     ,TX,United States
+Product8,1085,Visa,1/7/2018,Richard,Flower Mound                ,TX,United States
+Product4,997,Mastercard,1/8/2018,Andrew,Newburgh,Scotland,United Kingdom
+Product9,864,Visa,1/8/2018,Daniel,Saddle Brook                ,NJ,United States
+Product6,553,Visa,1/8/2018,Ernest,Simpsonville                ,SC,United States
+Product1,897,Mastercard,1/9/2018,Will,Basildon,England,United Kingdom
+Product6,572,Diners,1/9/2018,Jesse,Basingstoke,England,United Kingdom
+Product2,521,Visa,1/9/2018,Oscar,Clontarf,Dublin,Ireland
+Product4,968,Visa,1/9/2018,Lewis,Sebastopol                  ,CA,United States
+Product6,1247,Visa,1/11/2018,Peter,Al 'Adliyah,Al Manamah,Bahrain
+Product3,442,Visa,1/11/2018,Benjamin,Banbury,England,United Kingdom
+Product1,691,Mastercard,1/12/2018,Frederick,Holte,Kobenhavn,Denmark
+Product2,1027,Amex,1/12/2018,Willie,Centerport                  ,NY,United States
+Product2,562,Visa,1/12/2018,Alfred,Fresno                      ,CA,United States
+Product5,1254,Visa,1/13/2018,Sam,Vienna                      ,VA,United States
+Product5,1471,Visa,1/13/2018,Roy,Rogers                      ,AR,United States
+Product3,380,Visa,1/14/2018,Herbert,Chula Vista                 ,CA,United States
+Product9,960,Mastercard,1/14/2018,Jacob,Englewood                   ,CO,United States
+Product9,1178,Mastercard,1/14/2018,Tom,Aubonne,Vaud,Switzerland
+Product3,1236,Visa,1/15/2018,Elmer,Princeville                 ,HI,United States
+Product5,1134,Amex,1/15/2018,Carl,Brulon,Pays de la Loire,France
+Product9,918,Mastercard,1/15/2018,Lee,Den Haag,Zuid-Holland,Netherlands
+Product8,737,Visa,1/15/2018,Howard,North Bay,Ontario,Canada
+Product6,1458,Diners,1/15/2018,Martin,Leamington Spa,England,United Kingdom
+Product1,596,Visa,1/15/2018,Michael,Tranby,Buskerud,Norway
+Product4,1202,Visa,1/17/2018,Bert,Falmouth                    ,VA,United States
+Product5,1299,Visa,1/17/2018,Herman,Drogheda,Louth,Ireland
+Product9,702,Visa,1/17/2018,Jim,Eagan                       ,MN,United States
+Product5,1109,Visa,1/17/2018,Francis,Libertyville                ,IL,United States
+Product9,797,Visa,1/17/2018,Harvey,Cartierville,Quebec,Canada
+Product9,1022,Mastercard,1/18/2018,Earl,NYC                         ,NY,United States
+Product5,1012,Mastercard,1/18/2018,Eugene,Lindenhurst                 ,NY,United States
+Product1,643,Visa,1/19/2018,Ralph,Redruth,England,United Kingdom
+Product8,971,Mastercard,1/19/2018,Ed,Wilmington                  ,NC,United States
+Product1,1035,Mastercard,1/19/2018,Claude,Birkdale,Queensland,Australia
+Product6,349,Mastercard,1/19/2018,Edwin,Toronto,Ontario,Canada
+Product9,1211,Visa,1/19/2018,Ben,Morrison                    ,CO,United States
+Product1,1066,Visa,1/20/2018,Charley,Langnau,Zurich,Switzerland
+Product6,1321,Visa,1/22/2018,Paul,Pls Vrds Est                ,CA,United States
+Product7,320,Visa,1/23/2018,Edgar,Echuca,Victoria,Australia
+Product5,805,Mastercard,1/23/2018,Isaac,Tierp,Uppsala,Sweden
+Product5,872,Mastercard,1/23/2018,Otto,Coppell                     ,TX,United States
+Product8,389,Visa,1/23/2018,Luther,Atlantida,Guatemala,Guatemala
+Product3,1296,Diners,1/24/2018,Lawrence,MT Pleasant                 ,TX,United States
+Product4,1321,Visa,1/24/2018,Ira,Sunnyvale                   ,CA,United States
+Product8,924,Visa,1/25/2018,Patrick,Milton Keynes,England,United Kingdom
+Product10,599,Visa,1/25/2018,Guy,Nerang,Queensland,Australia
+Product8,802,Visa,1/25/2018,Oliver,Dubai,Dubayy,United Arab Emirates
+Product6,710,Diners,1/25/2018,Theodore,Oslo,Oslo,Norway
+Product9,1161,Visa,1/25/2018,Hugh,Aasgaardstrand,Vestfold,Norway
+Product6,1403,Visa,1/26/2018,Clyde,Bishop Auckland,England,United Kingdom
+Product6,1204,Mastercard,1/26/2018,Alexander,Vespasiano,Minas Gerais,Brazil
+Product7,409,Visa,1/27/2018,August,N Java                      ,NY,United States
+Product5,682,Visa,1/27/2018,Floyd,Ede,Gelderland,Netherlands
+Product1,1070,Diners,1/27/2018,Homer,Vancouver,British Columbia,Canada
+Product7,402,Visa,1/28/2018,Jack,Los Gatos                   ,CA,United States
+Product8,1258,Mastercard,1/28/2018,Leonard,Coventry,England,United Kingdom
+Product8,1199,Mastercard,1/29/2018,Horace,Louisville                  ,KY,United States
+Product9,1090,Visa,1/29/2018,Marion,Boyceville                  ,WI,United States
+Product6,857,Amex,1/29/2018,Philip,Melbourne,Victoria,Australia
+Product2,879,Mastercard,1/30/2018,Allen,Belmont                     ,MA,United States
+Product8,1463,Visa,1/30/2018,Archie,Billings                    ,MT,United States
+Product8,1333,Visa,1/31/2018,Stephen,Cartersburg                 ,IN,United States
+Product9,810,Mastercard,2/1/2018,Chester,Amsterdam,Noord-Holland,Netherlands
+Product9,1203,Amex,2/1/2018,Willis,Rockville                   ,MD,United States
+Product2,1228,Mastercard,2/2/2018,Raymond,Fairfield                   ,IA,United States
+Product7,666,Mastercard,2/2/2018,Rufus,Pasadena                    ,CA,United States
+Product3,1022,Visa,2/2/2018,Warren,Sutton Valence,England,United Kingdom
+Product10,381,Amex,2/3/2018,Jessie,Gurgaon,Haryana,India
+Product10,1467,Mastercard,2/3/2018,Milton,Glenn Dale                  ,MD,United States
+Product2,1387,Visa,2/3/2018,Alex,Rungsted,Frederiksborg,Denmark
+Product4,896,Visa,2/3/2018,Leo,Penclawdd,Wales,United Kingdom
+Product1,1026,Visa,2/3/2018,Julius,Ringgold                    ,GA,United States
+Product10,894,Visa,2/3/2018,Ray,Waiau Pa,Auckland,New Zealand
+Product9,1259,Visa,2/4/2018,Sidney,Arlington                   ,MA,United States
+Product7,1479,Amex,2/4/2018,Bernard,London,England,United Kingdom
+Product6,1234,Visa,2/5/2018,Dan,Senatobia                   ,MS,United States
+Product7,943,Mastercard,2/5/2018,Jerry,Scottsdale                  ,AZ,United States
+Product3,880,Amex,2/5/2018,Calvin,Atlanta                     ,GA,United States
+Product7,539,Visa,2/5/2018,Perry,Munich,Bayern,Germany
+Product5,1191,Visa,2/5/2018,Dave,San Diego                   ,CA,United States
+Product6,438,Visa,2/6/2018,Anthony,Soro,Vestsjalland,Denmark
+Product10,1217,Visa,2/6/2018,Eddie,Clondalkin,Dublin,Ireland
+Product5,414,Visa,2/7/2018,Amos,Paris,Ile-de-France,France
+Product6,1061,Visa,2/7/2018,Dennis,Inner City,Vienna,Austria
+Product1,739,Visa,2/8/2018,Clifford,Parkville                   ,MO,United States
+Product5,451,Visa,2/8/2018,Leroy,Antwerpen,Antwerpen,Belgium
+Product3,1061,Amex,2/8/2018,Wesley,Cumming                     ,GA,United States
+Product2,352,Amex,2/8/2018,Alonzo,Ayacucho,Buenos Aires,Argentina
+Product5,713,Mastercard,2/8/2018,Garfield,Ottawa,Ontario,Canada
+Product3,1035,Mastercard,2/9/2018,Franklin,Lausanne,Vaud,Switzerland
+Product5,804,Diners,2/9/2018,Emil,Paris,Ile-de-France,France
+Product7,960,Visa,2/10/2018,Leon,Gonzaga Univ                ,WA,United States
+Product7,761,Mastercard,2/10/2018,Nathan,Neustift am Walde,Vienna,Austria
+Product8,919,Visa,2/10/2018,Harold,Slough,England,United Kingdom
+Product4,851,Mastercard,2/10/2018,Matthew,Kloten,Zurich,Switzerland
+Product10,710,Visa,2/10/2018,Levi,Firenze,Tuscany,Italy
+Product1,379,Visa,2/10/2018,Moses,Chamonix-Mont-Blanc,Rhone-Alpes,France
+Product5,1456,Visa,2/11/2018,Everett,Vossevangen,Hordaland,Norway
+Product4,1169,Mastercard,2/12/2018,Lester,Newbury,England,United Kingdom
+Product3,804,Visa,2/12/2018,Winfield,Cincinnati                  ,OH,United States
+Product4,613,Visa,2/13/2018,Adam,Atchison                    ,KS,United States
+Product4,515,Visa,2/13/2018,Lloyd,Castleknock,Dublin,Ireland
+Product2,547,Visa,2/13/2018,Mack,Athina,Attiki,Greece
+Product5,375,Mastercard,2/14/2018,Fredrick,Corbin City                 ,NJ,United States
+Product9,1256,Diners,2/14/2018,Jay,Grossbodungen,Thuringia,Germany
+Product2,1305,Visa,2/14/2018,Jess,San Diego                   ,CA,United States
+Product4,785,Visa,2/15/2018,Melvin,Katy                        ,TX,United States
+Product1,1148,Visa,2/15/2018,Noah,Gainesville                 ,VA,United States
+Product1,575,Amex,2/15/2018,Aaron,Danderyd,Stockholm,Sweden
+Product7,782,Mastercard,2/16/2018,Alvin,Coral Gables                ,FL,United States
+Product4,1338,Mastercard,2/16/2018,Norman,Midland Park                ,NJ,United States
+Product9,814,Visa,2/16/2018,Gilbert,Shenfield,England,United Kingdom
+Product1,966,Amex,2/16/2018,Elijah,Tsaritsyno,Moscow City,Russia
+Product3,1317,Amex,2/16/2018,Victor,Los Gatos                   ,CA,United States
+Product2,373,Mastercard,2/16/2018,Gus,Groningen,Groningen,Netherlands
+Product4,521,Diners,2/17/2018,Nelson,Birmingham,England,United Kingdom
+Product5,519,Visa,2/18/2018,Jasper,Helsingor,Frederiksborg,Denmark
+Product1,476,Amex,2/18/2018,Silas,Den Haag,Zuid-Holland,Netherlands
+Product2,1130,Visa,2/18/2018,Christopher,Nadur, ,Malta
+Product2,306,Visa,2/20/2018,Jake,New York                    ,NY,United States
+Product6,735,Mastercard,2/20/2018,Mike,London,England,United Kingdom
+Product8,818,Diners,2/20/2018,Percy,High Wycombe,England,United Kingdom
+Product6,565,Diners,2/20/2018,Adolph,Clontarf,Dublin,Ireland
+Product1,1295,Visa,2/20/2018,Maurice,Kjobenhavn,Staden Kobenhavn,Denmark
+Product5,345,Diners,2/21/2018,Cornelius,Oxford,England,United Kingdom
+Product6,1123,Mastercard,2/22/2018,Felix,Tel Aviv,Tel Aviv,Israel
+Product7,343,Visa,2/23/2018,Reuben,Perth,Western Australia,Australia
+Product4,635,Diners,2/23/2018,Wallace,Lipari,Sicilia,Italy
+Product4,1316,Amex,2/24/2018,Claud,Alpharetta                  ,GA,United States
+Product7,925,Mastercard,2/24/2018,Roscoe,Mettlach,Saarland,Germany
+Product3,1080,Visa,2/26/2018,Sylvester,Rockville                   ,MD,United States
+Product8,562,Mastercard,2/26/2018,Earnest,Floyds Knobs                ,IN,United States
+Product1,539,Amex,2/26/2018,Hiram,Hon                         ,HI,United States
+Product1,398,Visa,2/26/2018,Otis,Sacramento                  ,CA,United States
+Product10,1333,Visa,2/27/2018,Simon,Perth,Scotland,United Kingdom
+Product10,1432,Mastercard,2/27/2018,Willard,Cypress                     ,CA,United States
+Product9,1054,Visa,2/28/2018,Irvin,Arlington                   ,VA,United States
+Product2,665,Mastercard,2/28/2018,Mark,Oxford,England,United Kingdom
+Product4,350,Visa,3/1/2018,Jose,Gladwyne                    ,PA,United States
+Product10,462,Amex,3/2/2018,Wilbur,Norwalk                     ,CT,United States
+Product1,338,Visa,3/3/2018,Abraham,Riverside                   ,NJ,United States
+Product10,450,Visa,3/3/2018,Virgil,Milan,Lombardy,Italy
+Product9,917,Mastercard,3/3/2018,Clinton,Three Hills,Alberta,Canada
+Product6,563,Visa,3/3/2018,Elbert,Istanbul,Istanbul,Turkey
+Product9,1031,Visa,3/4/2018,Leslie,Los Angeles                 ,CA,United States
+Product1,498,Visa,3/4/2018,Marshall,Anse Comeau,Quebec,Canada
+Product3,354,Visa,3/4/2018,Owen,Knoxville                   ,TN,United States
+Product6,707,Mastercard,3/4/2018,Wiley,Baluan,General Santos,Philippines
+Product9,403,Visa,3/4/2018,Anton,Hawera,Taranaki,New Zealand
+Product10,427,Visa,3/5/2018,Morris,Tsawwassen,British Columbia,Canada
+Product10,1303,Visa,3/5/2018,Manuel,Washington                  ,DC,United States
+Product10,1214,Amex,3/5/2018,Phillip,Zug,Zug,Switzerland
+Product1,628,Mastercard,3/6/2018,Augustus,Ile-Perrot,Quebec,Canada
+Product8,950,Visa,3/6/2018,Emmett,Baytown                     ,TX,United States
+Product9,685,Mastercard,3/6/2018,Eli,Rathfarnham,Dublin,Ireland
+Product5,1307,Visa,3/6/2018,Nicholas,Edinburg                    ,TX,United States
+Product4,721,Visa,3/6/2018,Wilson,Monaco, ,Monaco
+Product9,1109,Visa,3/7/2018,Alva,Cork,Cork,Ireland
+Product8,410,Visa,3/7/2018,Harley,Altlengbach,Lower Austria,Austria
+Product1,1447,Mastercard,3/7/2018,Newton,Germantown                  ,TN,United States
+Product8,1422,Mastercard,3/8/2018,Timothy,Brussels,Brussels (Bruxelles),Belgium
+Product2,719,Visa,3/9/2018,Marvin,Calgary,Alberta,Canada
+Product2,527,Visa,3/9/2018,Ross,London,England,United Kingdom
+Product4,1436,Visa,3/9/2018,Curtis,Ladera Ranch                ,CA,United States
+Product5,453,Visa,3/9/2018,Edmund,Djurgarden,Stockholm,Sweden
+Product3,1232,Diners,3/9/2018,Jeff,Huddersfield,England,United Kingdom
+Product1,1499,Visa,3/10/2018,Elias,Seattle                     ,WA,United States
+Product1,372,Mastercard,3/10/2018,Harrison,Madrid,Madrid,Spain
+Product8,728,Visa,3/10/2018,Stanley,Glendora                    ,CA,United States
+Product1,606,Diners,3/10/2018,Columbus,Boise                       ,ID,United States
+Product7,415,Visa,3/10/2018,Lon,Toronto,Ontario,Canada
+Product2,1469,Mastercard,3/11/2018,Ora,Southampton,England,United Kingdom
+Product1,1178,Visa,3/11/2018,Ollie,Lemont                      ,IL,United States
+Product9,687,Visa,3/11/2018,Russell,Overland                    ,KS,United States
+Product3,619,Visa,3/11/2018,Pearl,King City,Ontario,Canada
+Product9,443,Mastercard,3/11/2018,Solomon,Ridgefield                  ,CT,United States
+Product6,919,Visa,3/12/2018,Arch,Ashburn                     ,VA,United States
+Product3,1125,Visa,3/12/2018,Asa,Santry,Dublin,Ireland
+Product4,832,Mastercard,3/12/2018,Clayton,Reston                      ,VA,United States
+Product4,423,Visa,3/13/2018,Enoch,Downey                      ,CA,United States
+Product2,432,Mastercard,3/13/2018,Irving,Avalon,New South Wales,Australia
+Product8,389,Visa,3/14/2018,Mathew,Freeport City,Freeport,The Bahamas
+Product8,1348,Visa,3/14/2018,Nathaniel,Aix-en-Provence,Provence-Alpes-Cote d'Azur,France
+Product10,1374,Amex,3/14/2018,Scott,Chicago                     ,IL,United States
+Product6,1198,Visa,3/14/2018,Hubert,Brighton,England,United Kingdom
+Product4,1122,Mastercard,3/15/2018,Lemuel,Navan,Meath,Ireland
+Product2,503,Visa,3/15/2018,Andy,Toronto,Ontario,Canada
+Product10,581,Diners,3/16/2018,Ellis,Cork,Cork,Ireland
+Product1,1193,Visa,3/16/2018,Emanuel,Barcelona,Catalonia,Spain
+Product5,1281,Visa,3/16/2018,Joshua,Random Lake                 ,WI,United States
+Product7,739,Visa,3/17/2018,Millard,Pembroke Pines              ,FL,United States
+Product9,708,Visa,3/18/2018,Vernon,Atlanta,Georgia,United States
+Product5,625,Amex,3/18/2018,Wade,Miami                       ,FL,United States
+Product8,351,Visa,3/18/2018,Cyrus,Killarney,New Providence,The Bahamas
+Product1,1478,Amex,3/18/2018,Miles,Villanova                   ,PA,United States
+Product9,647,Visa,3/19/2018,Rudolph,Thorlakshofn, ,Iceland
+Product9,1484,Visa,3/20/2018,Sherman,Joppa,MD,United States
+Product4,985,Visa,3/20/2018,Austin,Montreal-Nord,Quebec,Canada
+Product2,910,Visa,3/20/2018,Bill,Oak Park                    ,MI,United States
+Product10,1079,Mastercard,3/20/2018,Chas,Edinburgh,Scotland,United Kingdom
+Product1,1333,Amex,3/20/2018,Lonnie,Bedford Corners             ,NY,United States
+Product10,405,Amex,3/21/2018,Monroe,Reston                      ,VA,United States
+Product2,750,Mastercard,3/21/2018,Byron,Manteno                     ,IL,United States
+Product1,512,Mastercard,3/21/2018,Edd,Cabinteely,Dublin,Ireland
+Product8,1400,Visa,3/23/2018,Emery,Newton                      ,MA,United States
+Product1,932,Mastercard,3/24/2018,Grant,Shreveport                  ,LA,United States
+Product1,440,Visa,3/24/2018,Jerome,Seattle                     ,WA,United States
+Product5,560,Amex,3/24/2018,Max,Bluffton                    ,SC,United States
+Product2,609,Visa,3/25/2018,Mose,Maple Ridge District Municipality,British Columbia,Canada
+Product10,558,Visa,3/25/2018,Steve,Corrales                    ,NM,United States
+Product7,1342,Visa,3/25/2018,Gordon,Beykoz,Istanbul,Turkey
+Product4,1185,Visa,3/26/2018,Abe,Spring Lake Park            ,MN,United States
+Product3,1342,Visa,3/26/2018,Pete,Brentwood                   ,TN,United States
+Product1,385,Diners,3/26/2018,Chris,Morrison                    ,CO,United States
+Product7,1031,Visa,3/27/2018,Clark,Great Falls,Virginia,United States
+Product2,701,Visa,3/27/2018,Gustave,Davis                       ,CA,United States
+Product6,1353,Amex,3/28/2018,Orville,Accokeek                    ,MD,United States
+Product3,912,Visa,3/28/2018,Lorenzo,Fremont                     ,CA,United States
+Product4,569,Visa,3/28/2018,Bruce,Calgary,Alberta,Canada
+Product3,1437,Visa,3/28/2018,Marcus,Madison                     ,WI,United States
+Product9,884,Diners,3/30/2018,Preston,Ballynora,Cork,Ireland
+Product8,1121,Visa,3/30/2018,Bob,Mechanics Grove             ,PA,United States
+Product2,1152,Mastercard,3/30/2018,Dock,The Woodlands               ,TX,United States
+Product4,749,Visa,3/31/2018,Donald,Jumeira,Dubayy,United Arab Emirates
+Product10,1085,Visa,3/31/2018,Jackson,Carouge,Geneve,Switzerland
+Product6,1003,Diners,3/31/2018,Cecil,Santa Barbaraa,Heredia,Costa Rica
+Product3,1302,Mastercard,4/1/2018,Barney,Melbourne,Victoria,Australia
+Product10,1046,Visa,4/1/2018,Delbert,Laasby,Arhus,Denmark
+Product3,313,Visa,4/2/2018,Edmond,Mona Vale,New South Wales,Australia
+Product7,379,Mastercard,4/2/2018,Anderson,Den Haag,Zuid-Holland,Netherlands
+Product4,978,Amex,4/2/2018,Christian,Guer,Brittany,France
+Product6,770,Visa,4/2/2018,Glenn,Creemore,Ontario,Canada
+Product1,943,Diners,4/3/2018,Jefferson,Bergen,Nordrhein-Westfalen,Germany
+Product6,680,Mastercard,4/3/2018,Luke,Lafayette                   ,CA,United States
+Product6,1389,Visa,4/3/2018,Neal,Rambouillet,Ile-de-France,France
+Product8,558,Mastercard,4/3/2018,Burt,London,England,United Kingdom
+Product7,1204,Visa,4/3/2018,Ike,London,England,United Kingdom
+Product2,307,Diners,4/3/2018,Myron,Pensacola                   ,FL,United States
+Product4,1199,Mastercard,4/4/2018,Tony,Martin                      ,TN,United States
+Product5,609,Mastercard,4/4/2018,Conrad,Portola Valley              ,CA,United States
+Product7,892,Visa,4/5/2018,Joel,Broadlands                  ,VA,United States
+Product1,1268,Amex,4/5/2018,Matt,San Mateo                   ,CA,United States
+Product5,392,Visa,4/5/2018,Riley,Kirriemuir,Scotland,United Kingdom
+Product6,483,Visa,4/5/2018,Vincent,Arklow,Wicklow,Ireland
+Product7,806,Mastercard,4/5/2018,Emory,Sammamish                   ,WA,United States
+Product1,760,Amex,4/6/2018,Isaiah,La Alberca,Murcia,Spain
+Product1,741,Visa,4/6/2018,Nick,Downingtown                 ,PA,United States
+Product9,1273,Visa,4/6/2018,Ezra,Durham                      ,NC,United States
+Product1,1500,Visa,4/7/2018,Green,Klampenborg,Kobenhavn,Denmark
+Product1,469,Visa,4/8/2018,Juan,Blarney,Cork,Ireland
+Product1,681,Amex,4/9/2018,Clifton,Naarden,Noord-Holland,Netherlands
+Product2,1142,Mastercard,4/9/2018,Lucius,Geneve,Geneve,Switzerland
+Product9,1224,Visa,4/10/2018,Porter,Kanata,Ontario,Canada
+Product4,635,Mastercard,4/10/2018,Arnold,Sydney,New South Wales,Australia
+Product3,1471,Mastercard,4/10/2018,Bud,Lake Ronkonkoma,NY,United States
+Product6,868,Visa,4/11/2018,Jeremiah,Rouen,Upper Normandy,France
+Product6,669,Visa,4/11/2018,Taylor,Fayetteville                ,NC,United States
+Product2,468,Mastercard,4/11/2018,Forrest,Fortaleza,Ceara,Brazil
+Product3,800,Visa,4/11/2018,Roland,Manhattan                   ,NY,United States
+Product2,803,Mastercard,4/12/2018,Spencer,Peoria                      ,IL,United States
+Product10,1475,Diners,4/12/2018,Burton,Vaucluse,New South Wales,Australia
+Product7,695,Mastercard,4/12/2018,Don,Madrid,Madrid,Spain
+Product4,1051,Mastercard,4/13/2018,Emmet,Baile Atha Bui,Meath,Ireland
+Product9,1153,Visa,4/14/2018,Gustav,Bubuieci,Chisinau,Moldova
+Product5,938,Amex,4/14/2018,Louie,London,England,United Kingdom
+Product8,587,Visa,4/14/2018,Morgan,Owings Mills                ,MD,United States
+Product3,1237,Mastercard,4/14/2018,Ned,Naples                      ,FL,United States
+Product2,465,Mastercard,4/14/2018,Van,Mission,British Columbia,Canada
+Product6,863,Visa,4/15/2018,Ambrose,Oldenburg,Lower Saxony,Germany
+Product8,1172,Visa,4/15/2018,Chauncey,Aberdeen,Scotland,United Kingdom
+Product8,336,Mastercard,4/16/2018,Elisha,Helens Bay,Northern Ireland,United Kingdom
+Product8,815,Visa,4/16/2018,Ferdinand,Perth,Western Australia,Australia
+Product10,688,Diners,4/17/2018,General,Cork,Cork,Ireland
+Product7,1423,Visa,4/17/2018,Julian,North Eastham               ,MA,United States
+Product7,898,Mastercard,4/18/2018,Kenneth,South Waterford             ,ME,United States
+Product8,605,Amex,4/19/2018,Mitchell,Nacka,Stockholm,Sweden
+Product5,929,Visa,4/19/2018,Allie,San Jose                    ,CA,United States
+Product7,401,Visa,4/19/2018,Josh,Budaors,Pest,Hungary
+Product5,1152,Mastercard,4/19/2018,Judson,Villars,Vaud,Switzerland
+Product4,474,Mastercard,4/20/2018,Lyman,Coomera,Queensland,Australia
+Product7,1425,Visa,4/20/2018,Napoleon,Bolton,England,United Kingdom
+Product6,560,Visa,4/21/2018,Pedro,Brookline                   ,MA,United States
+Product5,1399,Visa,4/21/2018,Berry,Kirriemuir,Scotland,United Kingdom
+Product4,1369,Mastercard,4/21/2018,Dewitt,Scottsdale                  ,AZ,United States
+Product10,820,Mastercard,4/21/2018,Ervin,Austin                      ,TX,United States
+Product8,721,Visa,4/21/2018,Forest,Dun Laoghaire,Dublin,Ireland
+Product9,444,Visa,4/22/2018,Lynn,Saint Paul                  ,MN,United States
+Product2,1484,Visa,4/22/2018,Pink,Houston                     ,TX,United States
+Product6,1477,Mastercard,4/22/2018,Ruben,San Jose                    ,CA,United States
+Product1,843,Amex,4/22/2018,Sanford,Rodeo                       ,CA,United States
+Product3,302,Visa,4/23/2018,Ward,Belleville,Ontario,Canada
+Product2,1441,Visa,4/23/2018,Douglas,Farmington,Michigan,United States
+Product6,1359,Diners,4/23/2018,Ole,New York                    ,NY,United States
+Product3,354,Mastercard,4/23/2018,Omer,Princeton                   ,NJ,United States
+Product6,756,Visa,4/23/2018,Ulysses,Austin                      ,TX,United States
+Product10,1151,Mastercard,4/24/2018,Walker,Irvine                      ,CA,United States
+Product10,938,Mastercard,4/24/2018,Wilbert,Washington                  ,DC,United States
+Product2,1072,Mastercard,4/25/2018,Adelbert,Veigy-Foncenex,Rhone-Alpes,France
+Product1,316,Mastercard,4/25/2018,Benjiman,Superior                    ,CO,United States
+Product9,931,Amex,4/26/2018,Ivan,Charlestown,New South Wales,Australia
+Product2,575,Mastercard,4/26/2018,Jonas,Saint Paul                  ,MN,United States
+Product6,1285,Mastercard,4/26/2018,Major,San Francisco               ,CA,United States
+Product4,639,Visa,4/27/2018,Abner,Calgary,Alberta,Canada
+Product5,1080,Visa,4/27/2018,Archibald,San Ramon                   ,CA,United States
+Product10,980,Visa,4/27/2018,Caleb,Norfolk                     ,VA,United States
+Product9,668,Visa,4/27/2018,Clint,Chandler                    ,AZ,United States
+Product4,597,Mastercard,4/27/2018,Dudley,Den Haag,Zuid-Holland,Netherlands
+Product6,1108,Visa,4/27/2018,Granville,Ottawa,Ontario,Canada
+Product3,1185,Visa,4/28/2018,King,Zurich,Zurich,Switzerland
+Product6,1321,Visa,4/28/2018,Mary,Plan-les-Ouattes,Geneve,Switzerland
+Product4,699,Visa,4/28/2018,Merton,Cobham,England,United Kingdom
+Product6,895,Visa,4/29/2018,Antonio,Sugar Land                  ,TX,United States
+Product8,1316,Amex,4/29/2018,Bennie,Bellinzona,Ticino,Switzerland
+Product2,1413,Mastercard,4/29/2018,Carroll,Montgomery                  ,TX,United States
+Product5,316,Mastercard,4/30/2018,Freeman,Simcoe,Ontario,Canada
+Product5,380,Visa,4/30/2018,Josiah,Pruszkow,Mazowieckie,Poland
+Product7,749,Mastercard,5/1/2018,Milo,Hofheim am Taunus,Hessen,Germany
+Product1,1096,Visa,5/2/2018,Royal,Bandon,Cork,Ireland
+Product7,964,Diners,5/2/2018,Dick,Lipari,Sicilia,Italy
+Product10,1263,Visa,5/3/2018,Earle,Allen                       ,TX,United States
+Product1,1418,Mastercard,5/3/2018,Elza,Stuttgart,Baden-Wurttemberg,Germany
+Product8,488,Mastercard,5/3/2018,Emerson,New Rochelle                ,NY,United States
+Product3,487,Amex,5/4/2018,Fletcher,Encinitas                   ,CA,United States
+Product3,378,Amex,5/5/2018,Judge,London,England,United Kingdom
+Product3,1146,Visa,5/5/2018,Laurence,Bruxelles,Brussels (Bruxelles),Belgium
+Product9,1269,Amex,5/5/2018,Neil,Boca Raton                  ,FL,United States
+Product5,1263,Diners,5/5/2018,Roger,Wall                        ,NJ,United States
+Product6,582,Mastercard,5/6/2018,Seth,Sevilla,Andalucia,Spain
+Product9,455,Visa,5/6/2018,Glen,Shankill,Dublin,Ireland
+Product9,619,Mastercard,5/6/2018,Hugo,Canterbury,England,United Kingdom
+Product5,1423,Mastercard,5/6/2018,Jimmie,George Town, ,Cayman Isls
+Product8,382,Visa,5/6/2018,Johnnie,El Escorial,Madrid,Spain
+Product10,1101,Mastercard,5/7/2018,Washington,Anchorage                   ,AK,United States
+Product6,590,Visa,5/8/2018,Elwood,Jumeira,Dubayy,United Arab Emirates
+Product3,1137,Visa,5/9/2018,Gust,Neuchatel,Neuchatel,Switzerland
+Product3,613,Diners,5/9/2018,Harmon,Calgary,Alberta,Canada
+Product1,714,Mastercard,5/9/2018,Jordan,Baden,Aargau,Switzerland
+Product4,728,Visa,5/10/2018,Simeon,Vancouver,British Columbia,Canada
+Product10,469,Visa,5/10/2018,Wayne,North Brunswick             ,NJ,United States
+Product8,993,Mastercard,5/10/2018,Wilber,Milton Keynes,England,United Kingdom
+Product3,699,Visa,5/10/2018,Clem,Centennial                  ,CO,United States
+Product6,1228,Visa,5/10/2018,Evan,Edinburgh,Scotland,United Kingdom
+Product3,1168,Visa,5/11/2018,Frederic,Nakskov,Storstrom,Denmark
+Product3,763,Visa,5/11/2018,Irwin,Pietermaritzburg,KwaZulu-Natal,South Africa
+Product7,672,Visa,5/11/2018,Junius,Oslo,Oslo,Norway
+Product6,505,Visa,5/11/2018,Lafayette,Statesville                 ,NC,United States
+Product7,1440,Mastercard,5/12/2018,Loren,Winnipeg,Manitoba,Canada
+Product4,301,Mastercard,5/12/2018,Madison,Sandymount,Dublin,Ireland
+Product5,1144,Visa,5/12/2018,Mason,Oxford,England,United Kingdom
+Product6,1081,Visa,5/12/2018,Orval,St Thomas                   ,VI,United States
+Product2,374,Visa,5/13/2018,Abram,Stockton,England,United Kingdom
+Product8,1231,Visa,5/13/2018,Aubrey,Ingelheim-Mitte,Rhineland-Palatinate,Germany
+Product2,1028,Visa,5/14/2018,Elliott,Englewood                   ,CO,United States
+Product4,1080,Visa,5/14/2018,Hans,Malahide,Dublin,Ireland
+Product7,918,Mastercard,5/14/2018,Karl,Woodland Hills              ,CA,United States
+Product1,718,Mastercard,5/14/2018,Minor,Ewa Beach                   ,HI,United States
+Product4,627,Visa,5/16/2018,Wash,Stockton-on-Tees,England,United Kingdom
+Product1,1173,Visa,5/16/2018,Wilfred,North Caldwell              ,NJ,United States
+Product10,1035,Visa,5/17/2018,Allan,Nacka,Stockholm,Sweden
+Product1,1236,Mastercard,5/17/2018,Alphonse,Oegstgeest,Zuid-Holland,Netherlands
+Product4,1349,Mastercard,5/18/2018,Dallas,Shavano Park                ,TX,United States
+Product9,401,Visa,5/18/2018,Dee,Brisbane,Queensland,Australia
+Product1,775,Mastercard,5/18/2018,Isiah,Kidderminster,England,United Kingdom
+Product3,905,Mastercard,5/18/2018,Jason,Minneapolis                 ,MN,United States
+Product2,1289,Mastercard,5/19/2018,Johnny,Ban Khlong Sip,Krung Thep,Thailand
+Product4,425,Visa,5/19/2018,Lawson,Bloomfield                  ,MI,United States
+Product6,1449,Mastercard,5/20/2018,Lew,Morges,Vaud,Switzerland
+Product6,393,Amex,5/20/2018,Micheal,Stamford                    ,CT,United States
+Product3,1337,Visa,5/20/2018,Orin,Ferney-Voltaire,Rhone-Alpes,France
+Product3,1044,Visa,5/20/2018,Addison,Waterford,Waterford,Ireland
+Product9,1264,Visa,5/21/2018,Cal,Alpharetta                  ,GA,United States
+Product1,1437,Mastercard,5/21/2018,Erastus,La Crescenta                ,CA,United States
+Product3,910,Visa,5/21/2018,Francisco,Vancouver,British Columbia,Canada
+Product2,1464,Amex,5/21/2018,Hardy,Ferney-Voltaire,Rhone-Alpes,France
+Product10,496,Visa,5/23/2018,Lucien,Chicago                     ,IL,United States
+Product8,541,Visa,5/23/2018,Randolph,Belfast,Northern Ireland,United Kingdom
+Product1,1241,Mastercard,5/24/2018,Stewart,Winter Haven                ,FL,United States
+Product8,312,Mastercard,5/24/2018,Vern,Calgary,Alberta,Canada
+Product2,405,Mastercard,5/24/2018,Wilmer,Kecskemet,Bacs-Kiskun,Hungary
+Product1,1171,Visa,5/24/2018,Zack,Mc Lean                     ,VA,United States
+Product9,1033,Mastercard,5/24/2018,Adrian,Rockingham,Western Australia,Australia
+Product6,806,Mastercard,5/24/2018,Alvah,Newmarket,Cork,Ireland
+Product6,956,Mastercard,5/24/2018,Bertram,Hilton Head                 ,SC,United States
+Product1,571,Mastercard,5/25/2018,Clay,Ball Ground                 ,GA,United States
+Product1,460,Visa,5/25/2018,Ephraim,Ornex,Rhone-Alpes,France
+Product8,1487,Visa,5/26/2018,Fritz,Castricum,Noord-Holland,Netherlands
+Product2,1036,Mastercard,5/26/2018,Giles,WalcProduct3ee,Tyrol,Austria
+Product6,781,Diners,5/28/2018,Grover,Hampton                     ,NJ,United States
+Product1,1169,Diners,5/29/2018,Harris,Hyderabad,Andhra Pradesh,India
+Product2,1388,Visa,5/29/2018,Isom,Joppa,MD,United States
+Product6,1291,Visa,5/29/2018,Jesus,Rennes,Brittany,France
+Product5,612,Visa,5/29/2018,Johnie,Parramatta,New South Wales,Australia
+Product9,551,Visa,5/30/2018,Jonathan,Fairbanks                   ,AK,United States
+Product2,924,Visa,5/30/2018,Lucian,Seattle                     ,WA,United States
+Product1,1220,Visa,5/30/2018,Malcolm,Gries,Rhineland-Palatinate,Germany
+Product10,1260,Visa,5/31/2018,Merritt,Nashville                   ,AR,United States
+Product7,1005,Visa,5/31/2018,Otho,Chicago                     ,IL,United States
+Product6,464,Mastercard,5/31/2018,Perley,Burr Oak                    ,IA,United States
+Product3,778,Diners,5/31/2018,Rolla,Hagen,Lorraine,France
+Product9,1423,Amex,6/1/2018,Sandy,Marietta                    ,GA,United States
+Product1,1401,Mastercard,6/1/2018,Tomas,Lincoln                     ,NE,United States
+Product6,1029,Visa,6/2/2018,Wilford,Manchester,England,United Kingdom
+Product3,567,Visa,6/2/2018,Adolphus,Las Vegas                   ,NV,United States
+Product7,1052,Visa,6/2/2018,Angus,Rochester Hills             ,MI,United States
+Product8,714,Mastercard,6/2/2018,Arther,Sidcup,England,United Kingdom
+Product8,311,Visa,6/2/2018,Carlos,Hamilton,Hamilton,Bermuda
+Product10,575,Mastercard,6/2/2018,Cary,Poughkeepsie                ,NY,United States
+Product4,401,Diners,6/3/2018,Cassius,London,England,United Kingdom
+Product5,645,Amex,6/3/2018,Davis,Edmonton,Alberta,Canada
+Product7,432,Diners,6/4/2018,Hamilton,Gorey, ,Jersey
+Product3,848,Visa,6/4/2018,Harve,Alcona,Ontario,Canada
+Product3,876,Visa,6/4/2018,Israel,Newcastle,Wicklow,Ireland
+Product7,1395,Visa,6/4/2018,Leander,Mornington,Meath,Ireland
+Product6,1192,Visa,6/4/2018,Melville,London,England,United Kingdom
+Product7,1484,Mastercard,6/4/2018,Merle,Voluntari,Bucuresti,Romania
+Product3,309,Visa,6/5/2018,Murray,Red Deer,Alberta,Canada
+Product3,1417,Amex,6/5/2018,Pleasant,Wiesbaden,Hessen,Germany
+Product9,543,Visa,6/6/2018,Sterling,Huntersville                ,NC,United States
+Product3,610,Visa,6/8/2018,Steven,Little Compton              ,RI,United States
+Product2,939,Mastercard,6/8/2018,Axel,New York                    ,NY,United States
+Product2,1351,Mastercard,6/9/2018,Boyd,Roodepoort,Gauteng,South Africa
+Product10,545,Mastercard,6/9/2018,Bryant,Telgte,Nordrhein-Westfalen,Germany
+Product1,1028,Mastercard,6/9/2018,Clement,Greenville                  ,TX,United States
+Product2,689,Mastercard,6/10/2018,Erwin,Zurich,Zurich,Switzerland
+Product10,560,Visa,6/11/2018,Ezekiel,Miami                       ,FL,United States
+Product6,939,Visa,6/11/2018,Foster,Rock Hill                   ,SC,United States
+Product3,736,Mastercard,6/12/2018,Frances,Pacific Beach               ,CA,United States
+Product8,930,Diners,6/12/2018,Geo,Chandler                    ,AZ,United States
+Product7,1203,Amex,6/12/2018,Houston,Anchorage                   ,AK,United States
+Product2,698,Diners,6/13/2018,Issac,Brooklyn                    ,NY,United States
+Product4,684,Visa,6/13/2018,Jules,Sneem,Kerry,Ireland
+Product10,1048,Amex,6/13/2018,Larkin,Ashford,England,United Kingdom
+Product5,364,Mastercard,6/14/2018,Mat,Calgary,Alberta,Canada
+Product5,1254,Visa,6/15/2018,Morton,Melbourne,Victoria,Australia
+Product1,1437,Visa,6/15/2018,Orlando,Sterling                    ,VA,United States
+Product2,1036,Amex,6/15/2018,Pierce,Skaneateles                 ,NY,United States
+Product5,1193,Amex,6/16/2018,Prince,Eindhoven,Noord-Brabant,Netherlands
+Product3,413,Mastercard,6/16/2018,Rollie,Stavanger,Rogaland,Norway
+Product3,430,Visa,6/16/2018,Rollin,Perth City,Western Australia,Australia
+Product5,378,Visa,6/17/2018,Sim,Edgewood                    ,WA,United States
+Product9,969,Visa,6/17/2018,Stuart,San Francisco               ,CA,United States
+Product1,1104,Visa,6/17/2018,Wilburn,Trumansburg                 ,NY,United States
+Product8,1229,Visa,6/17/2018,Bennett,Madrid,Madrid,Spain
+Product1,361,Mastercard,6/18/2018,Casper,Glan-Munchweiler,Rhineland-Palatinate,Germany
+Product8,801,Visa,6/18/2018,Christ,Exeter,England,United Kingdom
+Product9,1360,Visa,6/18/2018,Dell,Ashford,England,United Kingdom
+Product6,1500,Mastercard,6/19/2018,Egbert,Ajax,Ontario,Canada
+Product1,1213,Visa,6/19/2018,Elmo,Trelex,Vaud,Switzerland
+Product2,1034,Visa,6/19/2018,Fay,Castlebar,Mayo,Ireland
+Product5,1227,Visa,6/19/2018,Gabriel,Dubai,Dubayy,United Arab Emirates
+Product9,1115,Visa,6/20/2018,Hector,Woodsboro                   ,MD,United States
+Product5,1031,Visa,6/20/2018,Horatio,San Antonio                 ,TX,United States
+Product1,1289,Visa,6/21/2018,Lige,Marietta                    ,GA,United States
+Product2,400,Visa,6/21/2018,Saul,Munchengosserstadt,Thuringia,Germany
+Product8,565,Visa,6/22/2018,Smith,Sunnyvale                   ,CA,United States
+Product9,967,Amex,6/22/2018,Squire,Ottawa,Ontario,Canada
+Product3,433,Visa,6/22/2018,Tobe,Maidstone,England,United Kingdom
+Product3,753,Visa,6/23/2018,Tommie,Royal Oak                   ,MI,United States
+Product1,760,Visa,6/23/2018,Wyatt,Petworth,England,United Kingdom
+Product6,930,Visa,6/23/2018,Alford,Tramore,Waterford,Ireland
+Product2,388,Visa,6/23/2018,Alma,Waterford,Ontario,Canada
+Product1,1264,Mastercard,6/24/2018,Alton,Huntington                  ,NY,United States
+Product5,1418,Visa,6/24/2018,Andres,Ballincollig,Cork,Ireland
+Product9,850,Visa,6/24/2018,Burl,Valley Center               ,CA,United States
+Product6,561,Visa,6/25/2018,Cicero,Flossmoor                   ,IL,United States
+Product4,1474,Visa,6/25/2018,Dean,Blackrock,Dublin,Ireland
+Product6,1374,Amex,6/26/2018,Dorsey,Anthem                      ,AZ,United States
+Product6,637,Mastercard,6/26/2018,Enos,Dumbleton,England,United Kingdom
+Product6,842,Visa,6/27/2018,Howell,Brussels,Brussels (Bruxelles),Belgium
+Product1,453,Mastercard,6/27/2018,Lou,Cincinnati                  ,OH,United States
+Product7,1196,Visa,6/28/2018,Loyd,Ottawa,Ontario,Canada
+Product9,1218,Amex,6/28/2018,Mahlon,Mid City West               ,PA,United States
+Product1,584,Mastercard,6/28/2018,Nat,Coconut Grove               ,FL,United States
+Product5,638,Amex,6/28/2018,Omar,Claygate,England,United Kingdom
+Product7,898,Visa,6/28/2018,Oran,Churra,Murcia,Spain
+Product1,533,Visa,6/29/2018,Parker,Phoenix                     ,AZ,United States
+Product6,590,Diners,6/29/2018,Raleigh,Ooltewah                    ,TN,United States
+Product10,671,Visa,6/29/2018,Reginald,Scottsdale                  ,AZ,United States
+Product1,719,Visa,6/29/2018,Rubin,La Louviere,Hainaut,Belgium
+Product3,758,Amex,6/30/2018,Seymour,Ottawa Hills                ,OH,United States
+Product4,479,Visa,6/30/2018,Wm,Warwick,Queensland,Australia
+Product2,1444,Mastercard,7/1/2018,Young,Miami                       ,FL,United States
+Product4,1461,Visa,7/1/2018,Benjamine,Alliston,Ontario,Canada
+Product2,1489,Mastercard,7/1/2018,Carey,Mahopac                     ,NY,United States
+Product1,774,Visa,7/1/2018,Carlton,Anchorage                   ,AK,United States
+Product4,968,Visa,7/1/2018,Eldridge,Cork,Cork,Ireland
+Product7,1361,Visa,7/2/2018,Elzie,Chatou,Ile-de-France,France
+Product4,1103,Mastercard,7/2/2018,Garrett,London,England,United Kingdom
+Product3,342,Mastercard,7/3/2018,Isham,Vesenaz,Geneve,Switzerland
+Product9,438,Visa,7/4/2018,Johnson,Porto Alegre,Rio Grande do Sul,Brazil
+Product4,439,Visa,7/4/2018,Larry,Sitka                       ,AK,United States
+Product7,954,Visa,7/5/2018,Logan,Winchester                  ,MA,United States
+Product4,545,Diners,7/5/2018,Merrill,Staten Island               ,NY,United States
+Product4,1238,Visa,7/5/2018,Mont,Leesburg                    ,VA,United States
+Product10,1181,Amex,7/5/2018,Oren,Temecula                    ,CA,United States
+Product5,1441,Visa,7/6/2018,Pierre,Escondido                   ,CA,United States
+Product3,909,Visa,7/6/2018,Rex,Marietta                    ,GA,United States
+Product2,1160,Visa,7/6/2018,Rodney,Rogers                      ,AR,United States
+Product6,600,Visa,7/6/2018,Ted,Milano,Lombardy,Italy
+Product7,538,Visa,7/7/2018,Webster,London,England,United Kingdom
+Product2,1065,Visa,7/8/2018,West,Rochester Hills             ,MI,United States
+Product10,880,Diners,7/9/2018,Wheeler,Kinsaley,Dublin,Ireland
+Product10,359,Amex,7/9/2018,Willam,Redondo Beach               ,CA,United States
+Product8,1230,Mastercard,7/10/2018,Al,Queen Creek                 ,AZ,United States
+Product9,343,Mastercard,7/10/2018,Aloysius,Den Haag,Zuid-Holland,Netherlands
+Product4,584,Visa,7/11/2018,Alvie,Castleknock,Dublin,Ireland
+Product8,990,Visa,7/11/2018,Anna,Seattle                     ,WA,United States
+Product5,403,Mastercard,7/12/2018,Art,Great Falls                 ,VA,United States
+Product5,504,Visa,7/12/2018,Augustine,Oostburg                    ,WI,United States
+Product2,683,Visa,7/12/2018,Bailey,South Jordan                ,UT,United States
+Product3,1438,Visa,7/12/2018,Benjaman,Paris,Ile-de-France,France
+Product3,1440,Visa,7/12/2018,Beverly,Silver Spring               ,MD,United States
+Product5,1370,Mastercard,7/14/2018,Bishop,Genoa                       ,IL,United States
+Product2,602,Visa,7/14/2018,Clair,Calgary,Alberta,Canada
+Product5,620,Mastercard,7/15/2018,Cloyd,Saltsjobaden,Stockholm,Sweden
+Product7,1275,Amex,7/15/2018,Coleman,Atascadero                  ,CA,United States
+Product1,1167,Amex,7/16/2018,Dana,Ely                         ,NV,United States
+Product5,1266,Mastercard,7/16/2018,Duncan,Clyde Hill                  ,WA,United States
+Product9,763,Mastercard,7/16/2018,Dwight,Edmonton,Alberta,Canada
+Product7,784,Visa,7/17/2018,Emile,Freienbach,Schwyz,Switzerland
+Product6,1281,Visa,7/17/2018,Evert,San Pawl tat-Targa, ,Malta
+Product2,1150,Mastercard,7/17/2018,Henderson,Bunbury,Western Australia,Australia
+Product2,609,Mastercard,7/17/2018,Hunter,Augusta                     ,GA,United States
+Product3,1128,Mastercard,7/18/2018,Jean,Stockholm,Stockholm,Sweden
+Product1,1060,Visa,7/19/2018,Lem,Lexington                   ,MA,United States
+Product3,1375,Visa,7/19/2018,Luis,Rathfarnham,Dublin,Ireland
+Product6,525,Mastercard,7/20/2018,Mathias,Owensboro                   ,KY,United States
+Product7,308,Diners,7/21/2018,Maynard,Tenafly                     ,NJ,United States
+Product7,860,Mastercard,7/22/2018,Miguel,Deptford                    ,NJ,United States
+Product5,1190,Visa,7/22/2018,Mortimer,Fort Lauderdale             ,FL,United States
+Product2,573,Visa,7/22/2018,Nels,Calgary,Alberta,Canada
+Product8,822,Visa,7/23/2018,Norris,Aardal,Sogn og Fjordane,Norway
+Product5,1275,Mastercard,7/23/2018,Pat,Phoenix                     ,MD,United States
+Product6,609,Amex,7/23/2018,Phil,Saint Petersburg            ,FL,United States
+Product8,365,Visa,7/24/2018,Rush,Burpengary,Queensland,Australia
+Product10,406,Amex,7/24/2018,Santiago,Little Silver               ,NJ,United States
+Product8,1443,Amex,7/24/2018,Sol,Potomac Falls               ,VA,United States
+Product3,430,Visa,7/24/2018,Sydney,Mableton                    ,GA,United States
+Product8,575,Visa,7/24/2018,Thaddeus,Arlington                   ,VA,United States
+Product9,1033,Diners,7/24/2018,Thornton,Lipari,Sicilia,Italy
+Product6,726,Visa,7/25/2018,Tim,Keller                      ,VA,United States
+Product5,607,Diners,7/25/2018,Travis,Hoschton                    ,GA,United States
+Product5,576,Diners,7/25/2018,Truman,Toronto,Ontario,Canada
+Product6,984,Mastercard,7/25/2018,Watson,Saint-Cergues,Rhone-Alpes,France
+Product8,981,Visa,7/25/2018,Webb,Gisborne,Victoria,Australia
+Product6,583,Visa,7/25/2018,Wellington,Kilcornan,Limerick,Ireland
+Product4,537,Mastercard,7/25/2018,Winfred,Powell River,British Columbia,Canada
+Product6,1062,Visa,7/26/2018,Wylie,College Park                ,MD,United States
+Product2,903,Visa,7/26/2018,Alec,Umea,Vasterbotten,Sweden
+Product10,914,Mastercard,7/26/2018,Basil,Howell                      ,MI,United States
+Product10,1244,Visa,7/26/2018,Baxter,Vienna                      ,VA,United States
+Product9,1242,Visa,7/27/2018,Bertrand,Mashpee                     ,MA,United States
+Product10,1049,Amex,7/27/2018,Buford,Winter Spgs                 ,FL,United States
+Product2,801,Mastercard,7/28/2018,Burr,Neustift am Walde,Vienna,Austria
+Product3,1010,Visa,7/28/2018,Cleveland,York,England,United Kingdom
+Product7,491,Visa,7/28/2018,Colonel,Warwick                     ,NY,United States
+Product8,973,Visa,7/29/2018,Dempsey,London,England,United Kingdom
+Product4,1121,Mastercard,7/29/2018,Early,Den Haag,Zuid-Holland,Netherlands
+Product6,1413,Mastercard,7/29/2018,Ellsworth,Nashville                   ,TN,United States
+Product2,697,Mastercard,7/30/2018,Fate,Vancouver,British Columbia,Canada
+Product3,325,Visa,7/30/2018,Finley,Leighton Buzzard,England,United Kingdom
+Product7,1062,Visa,7/30/2018,Gabe,Paris,Ile-de-France,France
+Product10,1497,Visa,7/30/2018,Garland,Rome,Lazio,Italy
+Product4,932,Visa,7/31/2018,Gerald,Stuttgart,Baden-Wurttemberg,Germany
+Product10,958,Mastercard,7/31/2018,Herschel,Carcross,Yukon Territory,Canada
+Product10,1294,Visa,8/1/2018,Hezekiah,Delray Beach                ,FL,United States
+Product5,1054,Amex,8/1/2018,Justus,Holmdel                     ,NJ,United States
+Product10,1143,Visa,8/1/2018,Lindsey,Regensdorf,Zurich,Switzerland
+Product4,426,Diners,8/2/2018,Marcellus,London,England,United Kingdom
+Product2,924,Mastercard,8/2/2018,Olaf,Chiefland                   ,FL,United States
+Product8,1470,Mastercard,8/2/2018,Olin,Swampscott                  ,MA,United States
+Product1,1069,Visa,8/3/2018,Pablo,Staten Island               ,NY,United States
+Product10,1295,Mastercard,8/3/2018,Rolland,Calgary,Alberta,Canada
+Product2,1197,Mastercard,8/3/2018,Turner,Fayetteville                ,NC,United States
+Product3,383,Mastercard,8/4/2018,Verne,Florence,Tuscany,Italy
+Product8,1474,Visa,8/4/2018,Volney,Waiwera,Auckland,New Zealand
+Product4,1024,Diners,8/4/2018,Williams,Stuttgart,Baden-Wurttemberg,Germany
+Product2,321,Mastercard,8/5/2018,Almon,Munich,Bayern,Germany
+Product6,867,Mastercard,8/5/2018,Alois,Vecmilgravis,Riga,Latvia
+Product4,1190,Mastercard,8/5/2018,Alonza,Washington Township         ,OH,United States
+Product1,583,Mastercard,8/6/2018,Anson,Rathgar,Dublin,Ireland
+Product6,1166,Visa,8/6/2018,Authur,Paris,Ile-de-France,France
+Product6,1284,Visa,8/6/2018,Benton,Alexandria                  ,VA,United States
+Product6,1375,Mastercard,8/6/2018,Billie,Sydney,New South Wales,Australia
+Product8,392,Mastercard,8/7/2018,Cornelious,Badhoevedorp,Noord-Holland,Netherlands
+Product7,1139,Visa,8/7/2018,Darius,Norcross                    ,GA,United States
+Product2,576,Diners,8/7/2018,Denis,Besancon,Franche-Comte,France
+Product9,1070,Amex,8/7/2018,Dillard,Issaquah                    ,WA,United States
+Product10,1230,Visa,8/8/2018,Doctor,Nakskov,Storstrom,Denmark
+Product8,1273,Amex,8/8/2018,Elvin,Bruxelles,Brussels (Bruxelles),Belgium
+Product9,822,Visa,8/9/2018,Emma,London,England,United Kingdom
+Product8,1027,Amex,8/9/2018,Eric,Las Vegas                   ,NV,United States
+Product9,1460,Mastercard,8/10/2018,Evans,Vancouver,British Columbia,Canada
+Product4,416,Visa,8/10/2018,Gideon,Izmir,Izmir,Turkey
+Product5,761,Visa,8/11/2018,Haywood,Lausanne,Vaud,Switzerland
+Product9,526,Visa,8/11/2018,Hilliard,Croton On Hudson            ,NY,United States
+Product4,1083,Visa,8/12/2018,Hosea,Guelph,Ontario,Canada
+Product1,975,Amex,8/13/2018,Lincoln,Penngrove                   ,CA,United States
+Product9,1030,Visa,8/14/2018,Lonzo,Guildford,England,United Kingdom
+Product10,575,Visa,8/15/2018,Lucious,Braunschweig,Lower Saxony,Germany
+Product4,711,Mastercard,8/15/2018,Lum,San Carlos                  ,CA,United States
+Product1,529,Visa,8/15/2018,Malachi,Plantation                  ,FL,United States
+Product4,1132,Visa,8/15/2018,Newt,Terrell Hills               ,TX,United States
+Product4,742,Mastercard,8/15/2018,Noel,Evires,Rhone-Alpes,France
+Product10,1212,Visa,8/15/2018,Orie,Antibes,Provence-Alpes-Cote d'Azur,France
+Product7,586,Visa,8/16/2018,Palmer,Ankeny                      ,IA,United States
+Product9,488,Visa,8/16/2018,Pinkney,Kailua Kona                 ,HI,United States
+Product6,1242,Diners,8/16/2018,Shirley,Gingins,Vaud,Switzerland
+Product4,459,Visa,8/18/2018,Sumner,Vista                       ,CA,United States
+Product4,1072,Visa,8/18/2018,Terry,Ann Arbor                   ,MI,United States
+Product9,1238,Mastercard,8/18/2018,Urban,Den Haag,Zuid-Holland,Netherlands
+Product5,851,Amex,8/19/2018,Uriah,Sandy Springs               ,GA,United States
+Product8,1287,Visa,8/20/2018,Valentine,Bishops Stortford,England,United Kingdom
+Product7,1181,Visa,8/20/2018,Waldo,Kenmore                     ,WA,United States
+Product4,688,Amex,8/20/2018,Warner,Marietta                    ,GA,United States
+Product8,979,Visa,8/21/2018,Wong,Amelia Island               ,FL,United States
+Product3,1259,Mastercard,8/21/2018,Zeb,Lakeside                    ,CA,United States
+Product4,559,Visa,8/21/2018,Abel,Morro Bay                   ,CA,United States
+Product8,1088,Visa,8/21/2018,Alden,Norrkoping,Ostergotland,Sweden
+Product8,903,Visa,8/23/2018,Archer,Saint Catharines,Ontario,Canada
+Product4,1272,Mastercard,8/23/2018,Avery,Walnut Creek                ,CA,United States
+Product10,343,Mastercard,8/23/2018,Carson,Hendersonville              ,TN,United States
+Product1,651,Mastercard,8/24/2018,Cullen,Clinton                     ,NJ,United States
+Product6,504,Visa,8/24/2018,Doc,Vienna,Vienna,Austria
+Product2,476,Mastercard,8/24/2018,Eben,Den Haag,Zuid-Holland,Netherlands
+Product10,329,Amex,8/25/2018,Elige,Houston                     ,TX,United States
+Product10,787,Diners,8/25/2018,Elizabeth,Nordstrand,Oslo,Norway
+Product9,1233,Visa,8/25/2018,Elmore,Basel,Basel-Town,Switzerland
+Product3,351,Mastercard,8/26/2018,Ernst,Campinas,Sao Paulo,Brazil
+Product5,507,Mastercard,8/27/2018,Finis,Kobenhavn,Kobenhavn,Denmark
+Product5,1462,Visa,8/27/2018,Freddie,Calgary,Alberta,Canada
+Product3,1175,Visa,8/27/2018,Godfrey,San Jose                    ,CA,United States
+Product9,1487,Visa,8/27/2018,Guss,Lyndoch,South Australia,Australia
+Product10,1288,Visa,8/28/2018,Hamp,Cincinnati                  ,OH,United States
+Product2,1109,Visa,8/28/2018,Hermann,Comox,British Columbia,Canada
+Product2,548,Diners,8/29/2018,Isadore,Prince Albert,Saskatchewan,Canada
+Product4,934,Visa,8/29/2018,Isreal,Sydney,New South Wales,Australia
+Product9,452,Visa,8/29/2018,Jones,Prague,Central Bohemia,Czech Republic
+Product10,817,Visa,8/30/2018,June,Abbey Town,England,United Kingdom
+Product4,538,Mastercard,8/30/2018,Lacy,Taby,Stockholm,Sweden
+Product4,427,Visa,8/31/2018,Lafe,Ruti,Zurich,Switzerland
+Product3,541,Visa,9/1/2018,Leland,Gdansk,Pomorskie,Poland
+Product5,1180,Diners,9/1/2018,Llewellyn,Las Vegas                   ,NV,United States
+Product3,1125,Visa,9/1/2018,Ludwig,Dubai,Dubayy,United Arab Emirates
+Product2,1256,Mastercard,9/2/2018,Manford,Lake Mahopac                ,NY,United States
+Product3,461,Mastercard,9/2/2018,Maxwell,Buffalo                     ,NY,United States
+Product8,592,Visa,9/2/2018,Minnie,Irpin',Kiev,Ukraine
+Product9,1156,Visa,9/2/2018,Obie,Geneve,Geneve,Switzerland
+Product3,853,Amex,9/2/2018,Octave,Mafra,Santa Catarina,Brazil
+Product8,1181,Mastercard,9/3/2018,Orrin,Honolulu                    ,HI,United States
+Product10,392,Visa,9/3/2018,Ossie,Mullingar,Westmeath,Ireland
+Product5,772,Visa,9/4/2018,Oswald,Morton                      ,IL,United States
+Product4,844,Visa,9/4/2018,Park,Wollongong,New South Wales,Australia
+Product8,1140,Mastercard,9/4/2018,Parley,Vancouver,British Columbia,Canada
+Product3,518,Amex,9/4/2018,Ramon,Okotoks,Alberta,Canada
+Product7,1331,Amex,9/4/2018,Rice,Tokyo,Tokyo,Japan
+Product6,1091,Visa,9/5/2018,Stonewall,Centurion,Gauteng,South Africa
+Product3,1045,Visa,9/5/2018,Theo,Castleknock,Dublin,Ireland
+Product2,774,Mastercard,9/6/2018,Tillman,Norfolk                     ,VA,United States
+Product5,1148,Visa,9/6/2018,Addie,Minneapolis                 ,MN,United States
+Product3,438,Visa,9/6/2018,Aron,Bern,Bern,Switzerland
+Product9,327,Visa,9/6/2018,Ashley,Manhattan                   ,NY,United States
+Product1,507,Visa,9/7/2018,Bernhard,Kemble,England,United Kingdom
+Product8,734,Visa,9/7/2018,Bertie,New Malden,England,United Kingdom
+Product1,853,Diners,9/7/2018,Berton,Abu Dhabi,Abu Zaby,United Arab Emirates
+Product3,531,Visa,9/7/2018,Buster,Kennett Square              ,PA,United States
+Product6,706,Diners,9/7/2018,Butler,Hyderabad,Andhra Pradesh,India
+Product3,948,Visa,9/8/2018,Carleton,Weston                      ,CT,United States
+Product4,1077,Mastercard,9/9/2018,Carrie,Andover                     ,MA,United States
+Product9,418,Mastercard,9/9/2018,Clara,Begnins,Vaud,Switzerland
+Product7,719,Amex,9/10/2018,Clarance,Gava,Catalonia,Spain
+Product5,988,Visa,9/10/2018,Clare,Amsterdam,Noord-Holland,Netherlands
+Product10,654,Visa,9/11/2018,Crawford,Issaquah                    ,WA,United States
+Product6,888,Mastercard,9/11/2018,Danial,Mililani                    ,HI,United States
+Product4,1083,Visa,9/12/2018,Dayton,Jamestown                   ,RI,United States
+Product7,697,Mastercard,9/12/2018,Dolphus,Castle Rock                 ,CO,United States
+Product2,885,Visa,9/13/2018,Elder,London,England,United Kingdom
+Product5,727,Mastercard,9/13/2018,Ephriam,Buffalo Grove               ,IL,United States
+Product1,1352,Visa,9/13/2018,Fayette,Newtown                     ,CT,United States
+Product3,878,Mastercard,9/13/2018,Felipe,Hong Kong, ,Hong Kong
+Product4,631,Mastercard,9/13/2018,Fernando,Hannover,Lower Saxony,Germany
+Product3,480,Visa,9/13/2018,Flem,Lindfield,New South Wales,Australia
+Product3,358,Visa,9/13/2018,Florence,Saint Albans,England,United Kingdom
+Product7,433,Amex,9/14/2018,Ford,Mushrif,,Kuwait
+Product2,833,Visa,9/14/2018,Harlan,Berkeswell,England,United Kingdom
+Product9,414,Visa,9/14/2018,Hayes,Torbay,Auckland,New Zealand
+Product3,319,Visa,9/14/2018,Henery,Melbourne,Victoria,Australia
+Product10,467,Diners,9/14/2018,Hoy,Winter Haven                ,FL,United States
+Product9,346,Mastercard,9/15/2018,Huston,Glimmen,Groningen,Netherlands
+Product8,1354,Visa,9/15/2018,Ida,Chicago                     ,IL,United States
+Product5,1404,Amex,9/15/2018,Ivory,Danville                    ,PA,United States
+Product5,581,Mastercard,9/15/2018,Jonah,Fresno                      ,TX,United States
+Product9,1325,Visa,9/15/2018,Justin,Warwick,Quebec,Canada
+Product7,1016,Mastercard,9/16/2018,Lenard,Beachwood                   ,OH,United States
+Product8,374,Amex,9/16/2018,Leopold,Cranberry Twp               ,PA,United States
+Product9,1126,Amex,9/17/2018,Lionel,Los Angeles                 ,CA,United States
+Product4,611,Visa,9/17/2018,Manley,Liverpool,England,United Kingdom
+Product2,443,Mastercard,9/17/2018,Marquis,Orillia,Ontario,Canada
+Product6,834,Mastercard,9/17/2018,Marshal,Watford,England,United Kingdom
+Product9,778,Mastercard,9/17/2018,Mart,Wilmington                  ,DE,United States
+Product7,525,Diners,9/17/2018,Odie,Perth,Western Australia,Australia
+Product10,1381,Visa,9/18/2018,Olen,Malmo,Skane,Sweden
+Product5,347,Mastercard,9/18/2018,Oral,Chichester,England,United Kingdom
+Product6,599,Mastercard,9/18/2018,Orley,Arlington                   ,VA,United States
+Product2,1359,Visa,9/18/2018,Otha,Hradec Kralove,East Bohemia,Czech Republic
+Product10,600,Diners,9/19/2018,Press,Brooklyn                    ,NY,United States
+Product5,536,Visa,9/19/2018,Price,Stocksund,Stockholm,Sweden
+Product5,678,Mastercard,9/20/2018,Quincy,Keller                      ,VA,United States
+Product2,1083,Diners,9/20/2018,Randall,Alpine                      ,NJ,United States
+Product4,1317,Visa,9/21/2018,Rich,Brisbane,Queensland,Australia
+Product4,761,Mastercard,9/21/2018,Richmond,Fullerton                   ,CA,United States
+Product7,744,Visa,9/21/2018,Romeo,Chester                     ,CT,United States
+Product6,811,Visa,9/22/2018,Russel,Eagle                       ,ID,United States
+Product10,597,Visa,9/22/2018,Rutherford,Donauworth,Bayern,Germany
+Product2,1438,Diners,9/22/2018,Shade,Haverhill,England,United Kingdom
+Product1,1336,Diners,9/23/2018,Shelby,Den Haag,Zuid-Holland,Netherlands
+Product7,567,Visa,9/23/2018,Solon,Wheaton                     ,IL,United States
+Product6,1314,Visa,9/23/2018,Thurman,Toronto,Ontario,Canada
+Product3,535,Visa,9/24/2018,Tilden,Altadena                    ,CA,United States
+Product6,763,Amex,9/24/2018,Troy,Tenafly                     ,NJ,United States
+Product1,1330,Visa,9/24/2018,Woodson,Basauri,Pais Vasco,Spain
+Product9,1403,Visa,9/24/2018,Worth,Grosseto,Tuscany,Italy
+Product5,1162,Amex,9/25/2018,Aden,Pittsfield                  ,VT,United States
+Product10,842,Amex,9/25/2018,Alcide,Munchen,Bayern,Germany
+Product10,851,Mastercard,9/27/2018,Alf,Lafayette                   ,CA,United States
+Product3,317,Visa,9/27/2018,Algie,Royal Oak                   ,MI,United States
+Product1,873,Visa,9/27/2018,Arlie,Strasbourg,Alsace,France
+Product2,736,Amex,9/28/2018,Bart,Arlington                   ,VA,United States
+Product4,635,Visa,9/28/2018,Bedford,Hilversum,Noord-Holland,Netherlands
+Product1,437,Visa,9/29/2018,Benito,Southlake                   ,TX,United States
+Product9,1219,Visa,9/29/2018,Billy,Rungsted,Frederiksborg,Denmark
+Product6,911,Mastercard,9/29/2018,Bird,Hamburg,Hamburg,Germany
+Product1,896,Mastercard,9/29/2018,Birt,Brondby Strand,Kobenhavn,Denmark
+Product1,486,Mastercard,9/29/2018,Bruno,Anglesea,Victoria,Australia
+Product1,1058,Diners,9/30/2018,Burley,Julianstown,Meath,Ireland
+Product10,404,Diners,9/30/2018,Chancy,Chepel,Budapest,Hungary
+Product1,749,Mastercard,9/30/2018,Claus,White House                 ,TN,United States
+Product3,305,Mastercard,9/30/2018,Cliff,Bryceville                  ,FL,United States
+Product3,1038,Visa,9/30/2018,Clovis,Baltimore                   ,MD,United States
+Product8,1463,Visa,9/30/2018,Connie,Westminster                 ,CO,United States
+Product3,961,Visa,10/1/2018,Creed,St Augustine                ,FL,United States
+Product8,740,Visa,10/2/2018,Delos,Oslo,Oslo,Norway
+Product6,1010,Visa,10/2/2018,Duke,Monte-Carlo, ,Monaco
+Product9,617,Visa,10/2/2018,Eber,Brussels,Brussels (Bruxelles),Belgium
+Product8,432,Mastercard,10/2/2018,Eligah,Cagliari,Sardinia,Italy
+Product6,1347,Mastercard,10/2/2018,Elliot,Stavenger,Rogaland,Norway
+Product1,1051,Visa,10/3/2018,Elton,Holmenkollen,Oslo,Norway
+Product7,380,Mastercard,10/3/2018,Emmitt,Fresno                      ,TX,United States
+Product4,943,Amex,10/4/2018,Gene,San Francisco               ,CA,United States
+Product8,1487,Visa,10/4/2018,Golden,Zekeriyakoy,Istanbul,Turkey
+Product5,1360,Visa,10/4/2018,Hal,Ruschlikon,Zurich,Switzerland
+Product5,1133,Mastercard,10/4/2018,Hardin,Engleside                   ,VA,United States
+Product6,1261,Visa,10/4/2018,Harman,Bergen,Hordaland,Norway
+Product7,1242,Amex,10/4/2018,Hervey,Los Angeles                 ,CA,United States
+Product6,1491,Mastercard,10/4/2018,Hollis,Milford                     ,ME,United States
+Product2,691,Visa,10/5/2018,Ivey,Seattle                     ,WA,United States
+Product4,754,Visa,10/5/2018,Jennie,Edinburgh,Scotland,United Kingdom
+Product7,421,Amex,10/5/2018,Len,Alexandria                  ,VA,United States
+Product5,332,Mastercard,10/6/2018,Lindsay,Shreveport                  ,LA,United States
+Product5,1492,Visa,10/6/2018,Lonie,Songnae-dong,Soul-t'ukpyolsi,South Korea
+Product6,880,Mastercard,10/6/2018,Lyle,Griffith,New South Wales,Australia
+Product1,1250,Mastercard,10/6/2018,Mac,Klosterneuburg,Lower Austria,Austria
+Product6,475,Visa,10/6/2018,Mal,Ludwigsburg,Baden-Wurttemberg,Germany
+Product4,1341,Visa,10/7/2018,Math,Cahaba Heights              ,AL,United States
+Product2,402,Mastercard,10/7/2018,Miller,New York                    ,NY,United States
+Product9,1478,Visa,10/7/2018,Orson,Knoxville                   ,TN,United States
+Product5,926,Visa,10/7/2018,Osborne,Anieres,Geneve,Switzerland
+Product1,1412,Diners,10/8/2018,Percival,Montreal,Quebec,Canada
+Product5,526,Mastercard,10/8/2018,Pleas,Berlin,Berlin,Germany
+Product6,757,Amex,10/8/2018,Ples,Mililani                    ,HI,United States
+Product6,902,Diners,10/8/2018,Rafael,Alpharetta                  ,GA,United States
+Product10,808,Mastercard,10/9/2018,Raoul,Tunbridge Wells,England,United Kingdom
+Product9,780,Diners,10/9/2018,Roderick,Watford,England,United Kingdom
+Product6,1371,Visa,10/10/2018,Rose,Vancouver,British Columbia,Canada
+Product9,737,Visa,10/10/2018,Shelton,Aloma                       ,FL,United States
+Product6,1233,Diners,10/12/2018,Sid,Kelowna,British Columbia,Canada
+Product9,993,Visa,10/12/2018,Theron,North Vancouver,British Columbia,Canada
+Product4,411,Mastercard,10/12/2018,Tobias,Harold's Cross,Dublin,Ireland
+Product6,466,Mastercard,10/12/2018,Toney,Benoni,Gauteng,South Africa
+Product3,349,Visa,10/13/2018,Tyler,Gasperich,Luxembourg,Luxembourg
+Product3,1466,Visa,10/13/2018,Vance,New York                    ,NY,United States
+Product1,1052,Visa,10/13/2018,Vivian,Dammeron Valley             ,UT,United States
+Product1,1204,Visa,10/13/2018,Walton,London,England,United Kingdom
+Product4,577,Visa,10/14/2018,Watt,Lititz                      ,PA,United States
+Product5,317,Visa,10/15/2018,Weaver,Borja,Bohol,Philippines
+Product8,932,Visa,10/16/2018,Wilton,New York                    ,NY,United States
+Product10,652,Visa,10/16/2018,Adolf,The Grange,Queensland,Australia
+Product9,1074,Visa,10/16/2018,Albin,Chalfont Saint Peter,England,United Kingdom
+Product8,423,Visa,10/17/2018,Albion,Kearns                      ,UT,United States
+Product9,1393,Amex,10/18/2018,Allison,Pittsfield                  ,VT,United States
+Product4,1251,Mastercard,10/18/2018,Alpha,Amsterdam,Noord-Holland,Netherlands
+Product2,553,Amex,10/18/2018,Alpheus,Washington                  ,DC,United States
+Product3,632,Visa,10/18/2018,Anastacio,Austin                      ,TX,United States
+Product6,1439,Mastercard,10/19/2018,Andre,Houston                     ,TX,United States
+Product1,413,Mastercard,10/19/2018,Annie,Headley,England,United Kingdom
+Product8,760,Visa,10/19/2018,Arlington,West Orange                 ,NJ,United States
+Product4,1053,Amex,10/19/2018,Armand,Versoix,Geneve,Switzerland
+Product7,1429,Visa,10/19/2018,Asberry,Suchdol,Prague,Czech Republic
+Product9,1163,Mastercard,10/19/2018,Asbury,Huntington Beach            ,CA,United States
+Product8,1371,Visa,10/19/2018,Asher,Rochester                   ,MI,United States
+Product5,1206,Visa,10/20/2018,Augustin,Milan,Lombardy,Italy
+Product8,1332,Diners,10/21/2018,Auther,Urlingford,Kilkenny,Ireland
+Product6,1184,Mastercard,10/21/2018,Author,New York                    ,NY,United States
+Product4,529,Diners,10/21/2018,Ballard,Sag Harbor                  ,NY,United States
+Product6,1219,Visa,10/22/2018,Blas,Pittsboro                   ,NC,United States
+Product10,630,Amex,10/22/2018,Caesar,Seattle                     ,WA,United States
+Product1,711,Diners,10/22/2018,Candido,Fort Saint James,British Columbia,Canada
+Product6,1043,Visa,10/23/2018,Cato,Humble                      ,TX,United States
+Product2,755,Visa,10/24/2018,Clarke,London,England,United Kingdom
+Product4,1430,Visa,10/24/2018,Clemente,Thurles,Tipperary,Ireland
+Product2,781,Visa,10/24/2018,Colin,Alcobendas,Madrid,Spain
+Product1,711,Visa,10/25/2018,Commodore,Kelowna,British Columbia,Canada
+Product2,385,Amex,10/25/2018,Cora,San Diego                   ,CA,United States
+Product7,1191,Diners,10/26/2018,Coy,Santa Monica                ,CA,United States
+Product3,781,Amex,10/26/2018,Cruz,South Palm Beach            ,FL,United States
+Product4,616,Amex,10/26/2018,Curt,Orlando                     ,FL,United States
+Product10,1018,Visa,10/27/2018,Damon,York,England,United Kingdom
+Product8,627,Visa,10/27/2018,Davie,Wigan,England,United Kingdom
+Product1,813,Visa,10/27/2018,Delmar,Salt Lake City              ,UT,United States
+Product4,922,Visa,10/28/2018,Dexter,North Bay,Ontario,Canada
+Product6,739,Amex,10/28/2018,Dora,San Anselmo                 ,CA,United States
+Product1,1372,Visa,10/28/2018,Doss,Chaska                      ,MN,United States
+Product5,1321,Diners,10/29/2018,Drew,Roquefort,Provence-Alpes-Cote d'Azur,France
+Product1,471,Visa,10/30/2018,Edson,Black River,Black River,Mauritius
+Product9,1006,Diners,10/31/2018,Elam,Hono                        ,HI,United States
+Product9,1352,Mastercard,10/31/2018,Elihu,Chelmsford                  ,MA,United States
+Product7,1206,Diners,11/1/2018,Eliza,Memphis                     ,TN,United States
+Product3,474,Visa,11/1/2018,Elsie,Minneapolis                 ,MN,United States
+Product8,743,Mastercard,11/1/2018,Erie,Queen Creek                 ,AZ,United States
+Product8,862,Amex,11/1/2018,Ernie,Vancouver,British Columbia,Canada
+Product2,970,Visa,11/1/2018,Ethel,Scamander,Tasmania,Australia
+Product2,350,Visa,11/1/2018,Ferd,Arc-et-Senans,Franche-Comte,France
+Product1,386,Visa,11/1/2018,Friend,Foxrock,Dublin,Ireland
+Product7,391,Visa,11/2/2018,Garry,Sainte-Therese-de-Blainville,Quebec,Canada
+Product3,1254,Amex,11/2/2018,Gary,Lidingo,Stockholm,Sweden
+Product4,741,Mastercard,11/3/2018,Grace,W Lebanon                   ,NH,United States
+Product4,877,Visa,11/3/2018,Gustaf,Dallas                      ,TX,United States
+Product2,312,Visa,11/3/2018,Hallie,Dryden                      ,VA,United States
+Product8,677,Mastercard,11/4/2018,Hampton,Irving                      ,TX,United States
+Product6,1387,Diners,11/4/2018,Harrie,San Antonio                 ,TX,United States
+Product4,493,Mastercard,11/6/2018,Hattie,Buffalo Grove               ,IL,United States
+Product5,1361,Mastercard,11/6/2018,Hence,Ehingen an der Donau,Baden-Wurttemberg,Germany
+Product4,1021,Amex,11/7/2018,Hillard,Houston                     ,TX,United States
+Product5,489,Visa,11/7/2018,Hollie,Calgary,Alberta,Canada
+Product2,1300,Visa,11/7/2018,Holmes,Calne,England,United Kingdom
+Product9,341,Visa,11/7/2018,Hope,Rancho Cordova              ,CA,United States
+Product4,757,Visa,11/7/2018,Hyman,Cambridge                   ,MA,United States
+Product4,962,Visa,11/7/2018,Ishmael,Milano,Lombardy,Italy
+Product8,1246,Visa,11/8/2018,Jarrett,Portland                    ,OR,United States
+Product5,606,Mastercard,11/9/2018,Jessee,Astoria                     ,OR,United States
+Product3,1112,Amex,11/9/2018,Joeseph,Arlington                   ,VA,United States
+Product6,665,Visa,11/9/2018,Junious,Bristol                     ,RI,United States
+Product8,1210,Mastercard,11/10/2018,Kirk,Killiney,Dublin,Ireland
+Product5,1054,Visa,11/10/2018,Levy,Bolton,England,United Kingdom
+Product6,951,Visa,11/10/2018,Mervin,Paris,Ile-de-France,France
+Product4,1406,Visa,11/10/2018,Michel,Birmingham                  ,MI,United States
+Product10,473,Visa,11/10/2018,Milford,Berikon,Aargau,Switzerland
+Product2,432,Visa,11/11/2018,Mitchel,Aberdeen,Scotland,United Kingdom
+Product3,1086,Diners,11/11/2018,Nellie,Sutton,Dublin,Ireland
+Product10,411,Amex,11/11/2018,Noble,Jamaica Plain               ,MA,United States
+Product3,1271,Visa,11/12/2018,Obed,Belgrade                    ,MT,United States
+Product6,1452,Visa,11/13/2018,Oda,Oslo,Oslo,Norway
+Product6,367,Amex,11/13/2018,Orren,Las Vegas                   ,NV,United States
+Product9,384,Visa,11/13/2018,Ottis,Yorba Linda                 ,CA,United States
+Product4,1446,Mastercard,11/13/2018,Rafe,Lahti,Etela-Suomen Laani,Finland
+Product4,1283,Mastercard,11/14/2018,Redden,Farmingtn Hls               ,MI,United States
+Product10,559,Visa,11/15/2018,Reese,Fort Lauderdale             ,FL,United States
+Product8,836,Diners,11/15/2018,Rube,Blackpool,England,United Kingdom
+Product10,455,Mastercard,11/16/2018,Ruby,Warlingham,England,United Kingdom
+Product4,829,Visa,11/17/2018,Rupert,Parkland                    ,FL,United States
+Product5,555,Mastercard,11/17/2018,Salomon,Vicenza,Veneto,Italy
+Product4,387,Diners,11/17/2018,Sammie,West Hills                  ,CA,United States
+Product2,1433,Visa,11/17/2018,Sanders,Larchmont                   ,NY,United States
+Product1,1287,Visa,11/17/2018,Soloman,Nashville                   ,TN,United States
+Product8,1274,Visa,11/19/2018,Stacy,Binningen,Basel-Country,Switzerland
+Product4,517,Visa,11/19/2018,Stanford,Reading,England,United Kingdom
+Product6,317,Mastercard,11/19/2018,Stanton,Lyngby,Kobenhavn,Denmark
+Product4,972,Mastercard,11/20/2018,Thad,New Rochelle                ,NY,United States
+Product8,891,Diners,11/20/2018,Titus,Fort Oglethorpe             ,GA,United States
+Product6,727,Visa,11/20/2018,Tracy,Charlottenlund,Kobenhavn,Denmark
+Product8,1427,Visa,11/20/2018,Vernie,Bangalore,Karnataka,India
+Product6,1355,Visa,11/21/2018,Wendell,Ballincollig,Cork,Ireland
+Product8,371,Visa,11/22/2018,Wilhelm,Wantagh,NY,United States
+Product10,1376,Visa,11/22/2018,Willian,Melbourne,Victoria,Australia
+Product1,649,Amex,11/23/2018,Yee,Barcelona,Catalonia,Spain
+Product6,1161,Diners,11/23/2018,Zeke,Montreal,Quebec,Canada
+Product6,1323,Visa,11/23/2018,Ab,Columbus                    ,OH,United States
+Product2,371,Diners,11/23/2018,Abbott,Burbank                     ,CA,United States
+Product10,1126,Visa,11/24/2018,Agustus,Hamilton,Ontario,Canada
+Product2,700,Visa,11/24/2018,Albertus,London,England,United Kingdom
+Product1,1310,Visa,11/24/2018,Almer,Leicester,England,United Kingdom
+Product1,1068,Visa,11/25/2018,Alphonso,North Tustin                ,CA,United States
+Product4,1137,Mastercard,11/25/2018,Alvia,Sola,Rogaland,Norway
+Product9,425,Visa,11/27/2018,Artie,Fairfax                     ,CA,United States
+Product10,818,Amex,11/27/2018,Arvid,Herndon                     ,VA,United States
+Product6,1206,Visa,11/28/2018,Ashby,Rayford                     ,TX,United States
+Product8,649,Visa,11/28/2018,Augusta,Cardiff,Wales,United Kingdom
+Product7,506,Visa,11/29/2018,Aurthur,Margate                     ,FL,United States
+Product5,1419,Visa,11/29/2018,Babe,New Plymouth City,Taranaki,New Zealand
+Product6,1363,Visa,11/29/2018,Baldwin,Mount Forest,Ontario,Canada
+Product2,1095,Mastercard,11/30/2018,Barnett,Bournemouth,England,United Kingdom
+Product3,801,Diners,11/30/2018,Bartholomew,Yellowknife,Northwest Territories,Canada
+Product10,532,Mastercard,11/30/2018,Barton,Waldorf                     ,MD,United States
+Product4,736,Diners,11/30/2018,Bernie,N Woodmere                  ,NY,United States
+Product6,1426,Visa,11/30/2018,Blaine,Ballyneety,Limerick,Ireland
+Product6,1272,Visa,12/1/2018,Boston,Lakewood Village            ,TX,United States
+Product9,1265,Diners,12/1/2018,Brad,Shorewood                   ,MN,United States
+Product5,1161,Visa,12/1/2018,Bradford,Issaquah                    ,WA,United States
+Product9,683,Diners,12/1/2018,Bradley,Lucca,Tuscany,Italy
+Product4,794,Mastercard,12/1/2018,Brooks,Hollywood                   ,CA,United States
+Product9,607,Amex,12/2/2018,Buck,Norfolk                     ,VA,United States
+Product2,1211,Visa,12/2/2018,Budd,Saggart,Dublin,Ireland
+Product9,1334,Mastercard,12/2/2018,Ceylon,Pacific Palisades           ,CA,United States
+Product4,1063,Mastercard,12/2/2018,Chalmers,London,England,United Kingdom
+Product2,483,Amex,12/3/2018,Chesley,Miami Beach                 ,FL,United States
+Product3,1212,Visa,12/4/2018,Chin,Jacksonville                ,FL,United States
+Product7,979,Mastercard,12/4/2018,Cleo,Oberwil,Basel-Country,Switzerland
+Product1,1471,Visa,12/5/2018,Crockett,Horten,Vestfold,Norway
+Product3,486,Mastercard,12/5/2018,Cyril,Biot,Provence-Alpes-Cote d'Azur,France
+Product6,444,Diners,12/6/2018,Daisy,New York                    ,NY,United States
+Product8,807,Mastercard,12/6/2018,Denver,Hellerup,Kobenhavn,Denmark
+Product2,579,Amex,12/6/2018,Dow,Ponte San Nicolo,Veneto,Italy
+Product4,1407,Diners,12/6/2018,Duff,Wisconsin Rapids            ,WI,United States
+Product7,745,Mastercard,12/7/2018,Edie,Lebanon                     ,PA,United States
+Product2,1298,Mastercard,12/7/2018,Edith,Balgach,St Gallen,Switzerland
+Product1,1384,Diners,12/8/2018,Elick,New York                    ,NY,United States
+Product7,1419,Amex,12/8/2018,Elie,Saskatoon,Saskatchewan,Canada
+Product3,548,Visa,12/8/2018,Eliga,Centennial                  ,CO,United States
+Product7,602,Visa,12/8/2018,Eliseo,Kemerburgaz,Istanbul,Turkey
+Product9,1274,Mastercard,12/9/2018,Elroy,Killeen                     ,TX,United States
+Product4,973,Mastercard,12/9/2018,Ely,Worongary,Queensland,Australia
+Product1,787,Diners,12/11/2018,Ennis,Saffron Walden,England,United Kingdom
+Product3,1250,Visa,12/11/2018,Enrique,Olive Branch                ,MS,United States
+Product8,390,Visa,12/11/2018,Erasmus,Taicheng,Guangdong,China
+Product6,986,Mastercard,12/12/2018,Esau,Old Greenwich               ,CT,United States
+Product3,614,Visa,12/12/2018,Everette,Austin                      ,TX,United States
+Product5,1079,Diners,12/12/2018,Firman,Burnaby,British Columbia,Canada
+Product6,1309,Amex,12/12/2018,Fleming,Atlanta                     ,GA,United States
+Product6,1030,Visa,12/13/2018,Flora,Okotoks,Alberta,Canada
+Product3,713,Visa,12/13/2018,Gardner,Athens                      ,GA,United States
+Product8,1062,Mastercard,12/13/2018,Gee,Utrecht,Utrecht,Netherlands
+Product1,725,Mastercard,12/13/2018,Gorge,Bridgewater                 ,NJ,United States
+Product2,992,Mastercard,12/14/2018,Gottlieb,Cheltenham,England,United Kingdom
+Product8,1300,Amex,12/14/2018,Gregorio,Fountain Hls                ,AZ,United States
+Product6,1109,Amex,12/14/2018,Gregory,Malibu                      ,CA,United States
+Product1,642,Visa,12/15/2018,Gustavus,Stavanger,Rogaland,Norway
+Product2,537,Amex,12/15/2018,Halsey,Warwick                     ,NY,United States
+Product7,831,Diners,12/15/2018,Handy,Reading,England,United Kingdom
+Product9,778,Diners,12/17/2018,Hardie,Salt Lake City              ,UT,United States
+Product8,1421,Mastercard,12/17/2018,Harl,Dresden,Saxony,Germany
+Product3,677,Visa,12/17/2018,Hayden,Cos Cob                     ,CT,United States
+Product4,1241,Mastercard,12/18/2018,Hays,Coconut Grove               ,FL,United States
+Product4,517,Mastercard,12/18/2018,Hermon,Kuala Lumpur,Kuala Lumpur,Malaysia
+Product3,1161,Visa,12/19/2018,Hershel,Silver Spring               ,MD,United States
+Product8,1391,Visa,12/19/2018,Holly,Setagaya,Tokyo,Japan
+Product1,1351,Diners,12/20/2018,Hosteen,Victor                      ,NY,United States
+Product8,774,Diners,12/20/2018,Hoyt,Ithaca                      ,NY,United States
+Product10,376,Mastercard,12/21/2018,Hudson,Kuopio,Ita-Suomen Laani,Finland
+Product9,1337,Mastercard,12/21/2018,Huey,San Antonio                 ,TX,United States
+Product7,1380,Mastercard,12/21/2018,Humphrey,Centennial                  ,CO,United States
+Product6,374,Visa,12/22/2018,Hunt,Hghlnds Ranch               ,CO,United States
+Product3,563,Amex,12/23/2018,Hyrum,Sandy Plains                ,GA,United States
+Product1,1313,Mastercard,12/24/2018,Irven,Chicago                     ,IL,United States
+Product7,1109,Visa,12/24/2018,Isam,Chadds Ford                 ,PA,United States
+Product4,397,Mastercard,12/24/2018,Ivy,Haymarket                   ,VA,United States
+Product3,824,Visa,12/24/2018,Jabez,Phuket,Phuket,Thailand
+Product6,727,Mastercard,12/25/2018,Jewel,Zagore,Stara Zagora,Bulgaria
+Product7,330,Visa,12/25/2018,Jodie,Saint Charles               ,IL,United States
+Product3,577,Amex,12/26/2018,Judd,Brooklyn                    ,NY,United States
+Product8,538,Visa,12/26/2018,Julious,Clonmel,Tipperary,Ireland
+Product2,410,Mastercard,12/28/2018,Justice,Durban,KwaZulu-Natal,South Africa
+Product4,451,Mastercard,12/28/2018,Katherine,Brooklyn                    ,NY,United States
+Product5,1393,Visa,12/29/2018,Kelly,Altadena                    ,CA,United States
+Product5,863,Visa,12/29/2018,Kit,Houston                     ,TX,United States
+Product8,654,Mastercard,12/31/2018,Knute,South Melbourne,Victoria,Australia
+Product1,1215,Visa,12/31/2018,Lavern,Lurgan,Northern Ireland,United Kingdom
+Product9,1445,Visa,12/31/2018,Lawyer,Richmond                    ,TX,United States
+Product2,414,Visa,12/31/2018,Layton,Kapaa                       ,HI,United States
