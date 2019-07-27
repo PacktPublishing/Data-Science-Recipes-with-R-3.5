@@ -90,7 +90,10 @@ Loan_Prediction <- h2o.predict(Loan_glm, newdata = LoanDataSplits[[2]])
 head(Loan_Prediction)
 
 # H2O frame to Spark DataFrame
+Loan_Prediction_SDF <- as_spark_dataframe(sc, Loan_Prediction)
 
+# review the Spark DF
+head(Loan_Prediction_SDF)
 
 
 
